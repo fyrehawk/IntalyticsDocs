@@ -1,0 +1,2 @@
+# IntalyticsDocs
+Intalytics Documentation
